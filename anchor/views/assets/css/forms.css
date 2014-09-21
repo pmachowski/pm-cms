@@ -229,6 +229,7 @@ select {
 			opacity: 0;
 			height: 39px;
 			display: block;
+			cursor: pointer;
 		}
 
 	.split .current-file {
